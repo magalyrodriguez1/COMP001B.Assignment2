@@ -46,7 +46,8 @@ p {
 }
 
 .record-label {
-
+color: red;
+font-style: italic; 
 }
 
 .track-list {
@@ -58,12 +59,12 @@ p {
 }
 
 #copyright {
-
+color: red;
 }
 
 #section-about, #section-discography, #section-equipment {
-margin: 25px;
-border: 2px solid darkred;
+margin: 0 auto;
+border: 2px double darkred;
 padding: 10px;
 
 }
@@ -80,7 +81,11 @@ padding: 20px;
 }
 
 img{
-margin: 5px;
+float:left;
+margin: 25px;
 border: 2px solid darkred;
 padding: 20px;
+}
+li{
+	list-style-type: square;
 }
