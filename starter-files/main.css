@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css?family=Barriecito|Do+Hyeon&display=swap');
+
+/* 
+	Fonts used:
+	font-family: 'Barriecito', cursive;
+	font-family: 'Do Hyeon', sans-serif;
+*/
+
+body {
+	background-color: black;
+	color: white;
+	font-size: 16px;
+	font-family: 'Do Hyeon', sans-serif;
+}
+
+h1, h2, h3 {
+	font-family: 'Barriecito', cursive;
+}
+
+h1 {
+	font-size: 2.5em;
+}
+
+h2 {
+	font-size: 1.75em;
+}
+
+h3 {
+	font-size: 1.5em;
+}
+
+p {
+
+}
+
+.album-art {
+
+}
+
+.clear {
+	clear: both;
+}
+
+.image-electronics, .image-stage-effects {
+	
+}
+
+.record-label {
+
+}
+
+.track-list {
+
+}
+
+#about-photo {
+
+}
+
+#copyright {
+
+}
+
+#section-about, #section-discography, #section-equipment {
+margin: 25px;
+border: 2px solid darkred;
+padding: 10px;
+
+}
+
+#text-intro {
+background-color: #333333;
+color: red;
+margin-top: 40px;
+margin-bottom: 40px;
+margin-left: 25px;
+margin-right: 25px;
+border: 2px solid red;
+padding: 20px;
+}
+
+img{
+margin: 5px;
+border: 2px solid darkred;
+padding: 20px;
+}
